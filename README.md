@@ -1,4 +1,4 @@
-# Russia–Ukraine War: Global News Coverage Dashboard
+# Mapping the Salience of War
 
 Graphic Detail–style data journalism dashboard showing global news coverage of the
 Russia–Ukraine war from February 2022 through May 2026, built from GDELT-derived data.
