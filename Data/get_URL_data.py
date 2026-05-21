@@ -16,7 +16,6 @@ previous step. If not, run that pipeline first.
 Test-run parameters: see TEST RUN block below.
 """
 
-import os
 from google.cloud import bigquery
 
 # ---- CONFIG --------------------------------------------------------------
