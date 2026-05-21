@@ -66,8 +66,7 @@
       title: 'The fade',
       body: `By late 2024 the war is in its third year. Ukraine launches a
              cross-border incursion into Russia's Kursk region — a story
-             that would have dominated 2022 — and most of the world's
-             media barely notice. Gaza has absorbed the attention budget.`,
+             that would have dominated 2022. Gaza has absorbed the attention budget.`,
       callout: `Only Ukraine's immediate neighbours and a handful of
                 politically engaged outlets keep the story near the top of
                 their agenda.`,
